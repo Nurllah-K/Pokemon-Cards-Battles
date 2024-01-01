@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&family=Rubik+Doodle+Shadow&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap");
+
+.first {
+  font-family: Rubik Doodle Shadow;
+  letter-spacing: 2px;
+  color: orangered;
+}
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #fff;
+  font-weight: bold;
+  text-align: center;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
